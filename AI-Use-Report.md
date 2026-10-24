@@ -3,16 +3,16 @@
 ## Student Information
 
 - Student name:
-- Week:
-- Lab:
-- Date:
+- Week: 7
+- Lab: 1
+- Date: 10/23/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [ I] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response: I learned how to use range. Which is  when range(5,31,5) this means you start at 5  and keep adding 5 each time and it stops before the number 30
 
 ## Summary
 
